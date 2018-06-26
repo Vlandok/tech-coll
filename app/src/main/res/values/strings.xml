@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Погода</string>
+
+    <string name="image_view_icon_description">Погода</string>
+
+    <string name="provider_enabled_false">У Вас запрещен доступ к местопоположению по Wi-Fi или сотовой связи. Пожалуйста, измените настройки у приложения.</string>
+    <string name="button_settings_phone">Настройки телефона</string>
+    <string name="defining_city">Определение города..</string>
+    <string name="defining_city_fail">Не получилось определить город!</string>
+    <string name="defining_city_try_again">Попробовать снова</string>
+    <string name="get_coordinates">Получение координат..</string>
+    <string name="next">Далее</string>
+    <string name="get_temperature_fail">Не получилось определить температуру!</string>
+
+</resources>
